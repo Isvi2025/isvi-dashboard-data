@@ -1,0 +1,8 @@
+{
+  "meses": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre"],
+  "mesesCortos": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct"],
+  "ingresos": [10, 15, 0, 18, 51, 4, 129, 25, 23, 18],
+  "retiros": [29, 1, 13, 10, 2, 21, 23, 22, 3, 6],
+  "neto": [-19, 14, -13, 8, 49, -17, 106, 3, 20, 12],
+  "total": [170, 187, 174, 193, 242, 225, 331, 334, 354, 366]
+}
